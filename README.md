@@ -10,3 +10,5 @@ Below is a summary about me:
 - 📫 How to reach me: torresfabio17@hotmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I always find an excuse to eat feijoada!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosanzzoni&layout=compact&theme=radical)
